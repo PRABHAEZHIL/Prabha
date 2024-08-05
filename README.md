@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prabha</h1>
-<h3 align="center">A passionate Mobile Application Developer</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhaezhil&label=Profile%20views&color=0e75b6&style=flat" alt="prabhaezhil" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Music App](https://github.com/PRABHAEZHIL/ThevaaramSongs.git)
 
-- 📫 How to reach me **prabha.ezhilarasan@gmail.com**
+- 📫 How to reach me **prabha.ezhilarasan@gmail.com** **ezhilprabha07@gmail.com88
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
